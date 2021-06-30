@@ -1,5 +1,5 @@
 # web-to-anki
-This is a webscraper written in Python to fetch data from particular pages of "www.chesstactics.org" and parse them into the required fields for an anki deck card. 
+This is a webscraper written in Python to fetch data from 1000+ pages of "www.chesstactics.org" and parse them into the required fields for an anki deck card. 
 It uses beautifulsoup.
 
 ## Required fields and output
